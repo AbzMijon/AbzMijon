@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbzMijon
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning JavaScript  и знаю HTML / CSS
+- 🌱 I’m currently learning JavaScript and know HTML / CSS
 
 
 <!---
