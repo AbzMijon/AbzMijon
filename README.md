@@ -16,10 +16,10 @@
 - 11)JavaScript Basics
 - ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 - ☎ Contact me:
-▼ Instagram - https://www.instagram.com/abz.mijon/
-▼ Telegram - @Abz_mijon
-▼ VK - vk.com/abzmijon
-▼ Discord - ЕгР1К#9755
+- ▼ Instagram - https://www.instagram.com/abz.mijon/
+- ▼ Telegram - @Abz_mijon
+- ▼ VK - vk.com/abzmijon
+- ▼ Discord - ЕгР1К#9755
 
 <!---
 AbzMijon/AbzMijon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
