@@ -5,15 +5,17 @@
 - ✅ At the moment I know:
 - 1)HTML5
 - 2)CSS3
-- 3)Bootstrap
-- 4)FontAwesome
-- 5)SwiperJS
-- 6)Git
-- 7)Cross-platform layout
-- 8)SASS
-- 9)Npm
-- 10)Parcel
-- 11)JavaScript Basics
+- 3)FlexBox
+- 4)Grid Layout
+- 5)Bootstrap
+- 6)FontAwesome
+- 7)SwiperJS
+- 8)Git
+- 9)Cross-platform layout
+- 10)SASS and SCSS
+- 11)Npm
+- 12)Parcel
+- 13)JavaScript Basics
 - ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 - ☎ Contact me:
 - ▼ Instagram - https://www.instagram.com/abz.mijon/
