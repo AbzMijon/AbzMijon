@@ -1,4 +1,65 @@
-- 👋 Hi, I’m @AbzMijon and im from Belarus
+<!-- <a><h1></h1></a>
+<img  alt="Lines of code" src="https://img.shields.io/tokei/lines/github/AbzMijon/PracticeMySkills?color=blue&label=Lines%20in%20repository&logo=lines&logoColor=blue">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AbzMijon/TMS-FE24?label=The%20main%20language&style=for-the-badge">
+![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h2><a href="#">Hi there 👋, I'm Egor</a></h2>
+    <h1>I'm learning FrontEnd Developing , and get exelent courses from <a href="https://teachmeskills.by/">TeachMeSkills</a></h1>
+    <ul>
+        <li>💪 I like to write code</li>
+        <li>🥅 I am constantly learning new things</li>
+        <li>⚡ I love watching videos about front-end development</li>
+        <li>🤹🏽 I am in 10th grade and I am 17 years old.</li>
+        <li>⚽ I like to play sports in my free time</li>
+    </ul>
+    <h4>Connect with me:</h4>
+    <a href="#"><img src="https://pngicon.ru/file/uploads/vk.png" alt="" width ='50px'></a>
+    <a href="#"><img src="https://free-png.ru/wp-content/uploads/2021/01/telegram_cvet-d23c11fa-340x334.png" alt="" width ='50px'></a>
+    <a href="#"><img src="https://pngicon.ru/file/uploads/instagram-1.png" alt="" width ='50px'></a>
+</body>
+</html>
+<details>
+<summary>More Skills</summary>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- - 👋 Hi, I’m @AbzMijon and im from Belarus
 - 👀 I’m interested in Frontend Developing
 - 🌱 I’m currently learning JavaScript now and taking excellent courses from TeachMeSkills!
 - ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
@@ -22,6 +83,7 @@
 - ▼ Telegram - @Abz_mijon
 - ▼ VK - vk.com/abzmijon
 - ▼ Discord - ЕгР1К#9755
+ -->
 
 <!---
 AbzMijon/AbzMijon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
