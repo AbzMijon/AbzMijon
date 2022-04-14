@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./fontawesome/css/all.min.css">
 </head>
 <body>
-    <h2 class="hello__title" ><a href="#">Hi there 👋, I'm Egor</a></h2>
+    <h2 class="hello__title" >Hi there 👋, I'm Egor</h2>
     <h1 class="main__title"> I'm learning FrontEnd Developing , and get exelent courses from <a href="https://teachmeskills.by/">TeachMeSkills</a></h1>
     <ul>
         <li>💪 I like to write code</li>
@@ -23,17 +23,25 @@
         <a href="https://vk.com/abzmijon"><i class="fa-brands fa-vk"></i></a>
         <a href="https://www.instagram.com/abz.mijon/"><i class="fa-brands fa-instagram"></i></a>
     </div>
-    <h4 class="tools">Language and Tools</h4>
-    <a href="#"><i class="fa-brands fa-html5"></i></a>
-    <a href="#"><i class="fa-brands fa-css3"></i></a>
-    <a href="#"><i class="fa-brands fa-js"></i></a>
-    <a href="#"><i class="fa-brands fa-sass"></i></a>
-    <a href="#"></a>
-
 </body>
 </html>
 <details>
 <summary>More Skills</summary>
+    <ul>
+        <li><a href="">HTML5</a></li>
+        <li><a href="">CSS3</a></li>
+        <li><a href="">FlexBox</a></li>
+        <li><a href="">Grid Layout</a></li>
+        <li><a href="">Bootstrap</a></li>
+        <li><a href="">FontAwesome</a></li>
+        <li><a href="">SwiperJS</a></li>
+        <li><a href="">Git</a></li>
+        <li><a href="">Cross-platform layout</a></li>
+        <li><a href="">SASS and SCSS</a></li>
+        <li><a href="">Npm</a></li>
+        <li><a href="">Parcel</a></li>
+        <li><a href="">JavaScript Basics</a></li>
+    </ul>
 </details>
 
 
