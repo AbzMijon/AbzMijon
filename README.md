@@ -1,16 +1,7 @@
-<!-- <a><h1></h1></a>
-<img  alt="Lines of code" src="https://img.shields.io/tokei/lines/github/AbzMijon/PracticeMySkills?color=blue&label=Lines%20in%20repository&logo=lines&logoColor=blue">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AbzMijon/TMS-FE24?label=The%20main%20language&style=for-the-badge">
-![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="./fontawesome/css/all.min.css">
-</head>
-<body>
-    <h2 class="hello__title" >Hi there 👋, I'm Egor</h2>
-    <h1 class="main__title"> I'm learning FrontEnd Developing , and get exelent courses from <a href="https://teachmeskills.by/">TeachMeSkills</a></h1>
+![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) 
+
+<h2>Hi there 👋, I'm Egor</h2>
+    <h1> <b>I'm learning FrontEnd Developing , and get exelent courses from <a href="https://teachmeskills.by/">TeachMeSkills</a></b> </h1>
     <ul>
         <li>💪 I like to write code</li>
         <li>🥅 I am constantly learning new things</li>
@@ -18,35 +9,41 @@
         <li>🤹🏽 I am in 10th grade and I am 17 years old.</li>
         <li>⚽ I like to play sports in my free time</li>
     </ul>
-    <h4>Connect with me:</h4>
-    <div class="connect__wrap">
-        <a href="https://vk.com/abzmijon"><i class="fa-brands fa-vk"></i></a>
-        <a href="https://www.instagram.com/abz.mijon/"><i class="fa-brands fa-instagram"></i></a>
-    </div>
-</body>
-</html>
-<details>
-<summary>More Skills</summary>
+
+___
+<!--     <h3> <b>Connect with me:</b> </h3> -->
+
+<summary><b>My Main Languages and Tools:</b></summary>
     <ul>
-        <li><a href="">HTML5</a></li>
-        <li><a href="">CSS3</a></li>
-        <li><a href="">FlexBox</a></li>
-        <li><a href="">Grid Layout</a></li>
-        <li><a href="">Bootstrap</a></li>
-        <li><a href="">FontAwesome</a></li>
-        <li><a href="">SwiperJS</a></li>
-        <li><a href="">Git</a></li>
-        <li><a href="">Cross-platform layout</a></li>
-        <li><a href="">SASS and SCSS</a></li>
-        <li><a href="">Npm</a></li>
-        <li><a href="">Parcel</a></li>
-        <li><a href="">JavaScript Basics</a></li>
+        <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
+        <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
+        <li><a href="https://learn.javascript.ru/">JavaScript</a></li>
+        <li><a href="https://code.visualstudio.com/">VisualStudioCode</a></li>
+    </ul>
+
+___
+
+<details>
+<summary><b>More Skills:</b></summary>
+    <ul>
+        <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
+        <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
+        <li><a href="https://html5book.ru/css3-flexbox/">FlexBox</a></li>
+        <li><a href="https://www.w3schools.com/css/css_grid.asp">Grid Layout</a></li>
+        <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+        <li><a href="https://fontawesome.com/">FontAwesome</a></li>
+        <li><a href="https://swiperjs.com/">SwiperJS</a></li>
+        <li><a href="https://git-scm.com/">Git</a></li>
+                <li><a href="https://code.visualstudio.com/">VisualStudioCode</a></li>
+        <li><a href="https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Responsive_Design">Cross-platform layout</a></li>
+        <li><a href="https://sass-scss.ru/guide/">SASS and SCSS</a></li>
+        <li><a href="https://www.npmjs.com/">Npm</a></li>
+        <li><a href="https://parceljs.org/">Parcel</a></li>
+        <li><a href="https://learn.javascript.ru/">JavaScript Basics</a></li>
     </ul>
 </details>
 
-
-
-
+___
 
 
 
