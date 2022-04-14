@@ -6,6 +6,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="./fontawesome/css/all.min.css">
 </head>
 <body>
     <h2 class="hello__title" ><a href="#">Hi there 👋, I'm Egor</a></h2>
@@ -18,18 +19,21 @@
         <li>⚽ I like to play sports in my free time</li>
     </ul>
     <h4>Connect with me:</h4>
-    <a href="#"><img src="https://pngicon.ru/file/uploads/vk.png" alt="" width ='50px'></a>
-    <a href="#"><img src="https://free-png.ru/wp-content/uploads/2021/01/telegram_cvet-d23c11fa-340x334.png" alt="" width ='50px'></a>
-    <a href="#"><img src="https://pngicon.ru/file/uploads/instagram-1.png" alt="" width ='50px'></a>
+    <div class="connect__wrap">
+        <a href="https://vk.com/abzmijon"><i class="fa-brands fa-vk"></i></a>
+        <a href="https://www.instagram.com/abz.mijon/"><i class="fa-brands fa-instagram"></i></a>
+    </div>
+    <h4 class="tools">Language and Tools</h4>
+    <a href="#"><i class="fa-brands fa-html5"></i></a>
+    <a href="#"><i class="fa-brands fa-css3"></i></a>
+    <a href="#"><i class="fa-brands fa-js"></i></a>
+    <a href="#"><i class="fa-brands fa-sass"></i></a>
+    <a href="#"></a>
 
 <style>
-    body {
-        border: 5px solid #b1adad;
-        color:#b1adad
-    }
-    .hello__title {
+.hello__title {
     font-size: 30px;
-    color: #fff;
+    color: #b1adad;
     text-align: center;
 }
 a {
@@ -38,12 +42,31 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.main__title {
+.hello__title {
     text-align: center;
     font-size: 50px;
 }
+.fa-brands {
+    margin-right: 15px;
+    font-size: 35px;
+    color: #807f7f;
+}
+.fa-brands:hover {
+    transform: scale(1.1);
+}
+.fa-html5 {
+    color: orange;
+}
+.fa-css3 {
+    color: blue;
+}
+.fa-js {
+    color: yellow;
+}
+.fa-sass {
+    color: #e77a8c;
+}
 </style>
-
 </body>
 </html>
 <details>
