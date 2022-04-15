@@ -1,19 +1,22 @@
-![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) 
 
 <h2>Hi there 👋, I'm Egor</h2>
-    <h1> <b>I'm learning FrontEnd Developing , and get exelent courses from <a href="https://teachmeskills.by/">TeachMeSkills</a></b> </h1>
-    <ul>
-        <li>💪 I like to write code</li>
-        <li>🥅 I am constantly learning new things</li>
-        <li>⚡ I love watching videos about front-end development</li>
-        <li>🤹🏽 I am in 10th grade and I am 17 years old.</li>
-        <li>⚽ I like to play sports in my free time</li>
-    </ul>
+    <h3> <b>I'm Learning FrontEnd Developing And Get Exelent Courses From <a href="https://teachmeskills.by/">TeachMeSkills</a></b> </h3>
+    
+![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) 
+
+
+<ul>
+    <li>💪 I like to write code</li>
+    <li>🥅 I am constantly learning new things</li>
+    <li>⚡ I love watching videos about front-end development</li>
+    <li>🤹🏽 I am in 10th grade and I am 17 years old.</li>
+    <li>⚽ I like to play sports in my free time</li>
+</ul>
 
 ___
-<!--     <h3> <b>Connect with me:</b> </h3> -->
 
-<summary><b>My Main Languages and Tools:</b></summary>
+
+<summary><b>⚙️ My Main Languages and Tools:</b></summary>
     <ul>
         <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
         <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
@@ -24,7 +27,7 @@ ___
 ___
 
 <details>
-<summary><b>More Skills:</b></summary>
+<summary><b>🔗 More Skills:</b></summary>
     <ul>
         <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
         <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
@@ -44,10 +47,14 @@ ___
 </details>
 
 ___
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AbzMijon/tms-fe24?color=blue&label=Last%20Commit&style=for-the-badge">
 
-
-
-
+<h3><b>☎️ Contact With Me:</b></h3>
+<ul>
+    <li><a href ="https://www.instagram.com/abz.mijon/">Instagram</a></li>
+    <li><a href ="https://t.me/Abz_mijon">Telegram</a></li>
+    <li><a href ="vk.com/abzmijon">VK </a></li>
+    </ul>
 
 
 
