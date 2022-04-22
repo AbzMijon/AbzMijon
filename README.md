@@ -1,4 +1,3 @@
-
 <h2>Hi there 👋, I'm Egor</h2>
     <h3> <b>I'm Learning FrontEnd Developing And Get Exelent Courses From <a href="https://teachmeskills.by/">TeachMeSkills</a></b> </h3>
     
