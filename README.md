@@ -48,7 +48,8 @@ ___
 ___
 
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AbzMijon/PracticeMySkills?color=blue&style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AbzMijon/
+JavaScript-Basics?color=blue&style=for-the-badge">
 <h3><b>☎️ Contact With Me:</b></h3>
 <ul>
     <li><a href ="https://www.instagram.com/abz.mijon/">Instagram</a></li>
