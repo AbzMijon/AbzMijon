@@ -8,7 +8,7 @@
     <li>💪 I like to write code</li>
     <li>🥅 I am constantly learning new things</li>
     <li>⚡ I love watching videos about front-end development</li>
-    <li>🤹🏽 I am in 10th grade and I am 17 years old.</li>
+    <li>🤹🏽 I am in 11th grade and I am 17 years old.</li>
     <li>⚽ I like to play sports in my free time</li>
 </ul>
 
@@ -41,7 +41,7 @@ ___
         <li><a href="https://sass-scss.ru/guide/">SASS and SCSS</a></li>
         <li><a href="https://www.npmjs.com/">Npm</a></li>
         <li><a href="https://parceljs.org/">Parcel</a></li>
-        <li><a href="https://learn.javascript.ru/">JavaScript Basics</a></li>
+        <li><a href="https://learn.javascript.ru/">JavaScript</a></li>
     </ul>
 </details>
 
