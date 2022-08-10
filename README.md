@@ -19,6 +19,8 @@ ___
     <ul>
         <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
         <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
+        <li><a href="https://ru.reactjs.org/">React</a></li>
+        <li><a href="https://redux.js.org/">Redux</a></li>
         <li><a href="https://learn.javascript.ru/">JavaScript</a></li>
         <li><a href="https://code.visualstudio.com/">VisualStudioCode</a></li>
     </ul>
@@ -30,6 +32,10 @@ ___
     <ul>
         <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
         <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
+        <li><a href="https://ru.reactjs.org/">React</a></li>
+        <li><a href="https://redux.js.org/">Redux</a></li>
+        <li><a href="https://github.com/axios/axios">Axios</a></li>
+         <li><a href="https://formik.org/docs/overview">Formik</a></li>
         <li><a href="https://html5book.ru/css3-flexbox/">FlexBox</a></li>
         <li><a href="https://www.w3schools.com/css/css_grid.asp">Grid Layout</a></li>
         <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
