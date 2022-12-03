@@ -1,5 +1,5 @@
 <h2>Hi there 👋, I'm Egor</h2>
-    <h3> <b>I'm Learning FrontEnd Developing And Get Exelent Courses From <a href="https://teachmeskills.by/">TeachMeSkills</a></b> </h3>
+    <h3> <b>Frontend developer | React. Road to fullstack </h3>
     
 ![](https://img.shields.io/github/watchers/AbzMijon/TMS-FE24?style=social) 
 
